@@ -1,0 +1,21 @@
+---
+title: "QUBE Youth Scholars Network"
+subtitle: "Program 1: Membership, Training, and Mentorship"
+---
+
+::: {.qube-card}
+### Free & Open Membership for Middle and High School Students
+- **Open to All:** QUBE programs are open to all middle and high school students who are curious about applying math, data, and science to real-world challenges in biology, medicine, and public health. **The program is free!**
+- **All Levels Welcome:** All levels of learners are welcome—whether you are taking your first steps in data analysis or already working on quantitative research.
+- **Growth Path:** Through structured training, mentorship, and project-based learning, participants progress from foundational to advanced analytical skills, gaining both technical expertise and the confidence to contribute meaningfully as emerging data scientists, health researchers, and changemakers.
+:::
+
+## How to Get Involved
+
+1. Connect with a local chapter via our [Branch Leadership](../leadership/branch-leadership.qmd) network across the United States, Canada, and China.
+2. Participate in workshops, peer learning cohorts, and mentorship from our [Graduate Student and Expert Advisors](../leadership/advisors.qmd).
+3. Reach out directly at [qubeinitiative1@gmail.com](mailto:qubeinitiative1@gmail.com) to join the QUBE Youth Scholars Network.
+
+---
+
+[← Back to All Programs](index.qmd) | [Next: QUBE Discovery Lab →](discovery-lab.qmd)

@@ -1,0 +1,21 @@
+---
+title: "QUBE Youth Research Showcase Symposium"
+subtitle: "Program 4: Sharing Student Discoveries in Data, Biology, and Public Health"
+---
+
+::: {.qube-card}
+### Celebrating Youth-Led Quantitative Health Research
+The **QUBE Youth Research Showcase Symposium** brings together students from the [QUBE Youth Scholars Network](youth-scholars-network.qmd) and [QUBE Discovery Lab](discovery-lab.qmd) to present their analytical projects and scientific findings.
+:::
+
+## Symposium Highlights
+
+- **Student Research Presentations:** Middle and high school scholars present data-driven research addressing challenges in biology, medicine, environmental health, and public health.
+- **Expert Feedback:** Receive constructive feedback and mentorship from QUBE's [Board Directors, Expert Advisors, and Graduate Student Advisors](../leadership/advisors.qmd).
+- **Global Community Exchange:** Connect with youth researchers across QUBE's [U.S. and international branches](../leadership/branch-leadership.qmd).
+
+---
+
+Interested in presenting or attending? Contact us at [qubeinitiative1@gmail.com](mailto:qubeinitiative1@gmail.com).
+
+[← QUBE Science and Leadership Forum](science-and-leadership-forum.qmd) | [Back to All Programs](index.qmd)

@@ -1,0 +1,35 @@
+---
+title: "QUBE Programs"
+subtitle: "Free Training, Mentorship, Research, and Seminars for Middle & High School Students"
+---
+
+QUBE programs are **free** and open to all middle and high school students who are curious about applying math, data, and science to real-world challenges in biology, medicine, and public health. **All levels of learners are welcome!**
+
+Through structured training, mentorship, and project-based learning, participants progress from foundational to advanced analytical skills, gaining both technical expertise and the confidence to contribute meaningfully as emerging data scientists, health researchers, and changemakers.
+
+## Our Four Core Programs
+
+::: {.qube-card}
+### 1. [QUBE Youth Scholars Network](youth-scholars-network.qmd)
+Our core membership and mentorship network where middle and high school students build foundational-to-advanced analytical skills through structured training and collaborative learning.
+:::
+
+::: {.qube-card}
+### 2. [QUBE Discovery Lab](discovery-lab.qmd)
+Hands-on, project-based quantitative research where students apply mathematical, computational, and statistical reasoning to real-world biological and health problems.
+:::
+
+::: {.qube-card}
+### 3. [QUBE Science and Leadership Forum](science-and-leadership-forum.qmd)
+Monthly live Zoom seminars featuring leading researchers, clinicians, and industry biostatisticians/data scientists sharing how math, statistics, and data science drive discoveries in medicine and public health.
+:::
+
+::: {.qube-card}
+### 4. [QUBE Youth Research Showcase Symposium](research-showcase-symposium.qmd)
+An annual showcase where QUBE student scholars present their interdisciplinary data science and health research projects to peers, mentors, and expert advisors.
+:::
+
+---
+
+*Upcoming Initiative:* **QUBE Spotlights**  
+**Contact:** [qubeinitiative1@gmail.com](mailto:qubeinitiative1@gmail.com)

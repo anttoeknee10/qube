@@ -1,0 +1,59 @@
+project:
+  type: website
+
+website:
+  title: "QUBE Initiative"
+  favicon: images/logo.svg
+  navbar:
+    logo: images/logo.svg
+    pinned: false
+    left:
+      - href: index.qmd
+        text: Home
+      - href: leadership/executive-committee.qmd
+        text: Executive Committee
+      - href: leadership/branch-leadership.qmd
+        text: Branch Leadership
+      - href: leadership/advisors.qmd
+        text: Advisors
+      - text: Programs
+        menu:
+          - href: programs/index.qmd
+            text: Programs Overview
+          - text: "---"
+          - href: programs/youth-scholars-network.qmd
+            text: "1. QUBE Youth Scholars Network"
+          - href: programs/discovery-lab.qmd
+            text: "2. QUBE Discovery Lab"
+          - href: programs/science-and-leadership-forum.qmd
+            text: "3. QUBE Science and Leadership Forum"
+          - href: programs/research-showcase-symposium.qmd
+            text: "4. QUBE Youth Research Showcase Symposium"
+  page-footer:
+    center: "© 2024–2026 All Rights Reserved | QUBE Initiative, organized exclusively for charitable and educational purposes within the meaning of Section 501(c)(3) of the Internal Revenue Code | Contact: qubeinitiative1@gmail.com"
+
+format:
+  html:
+    theme:
+      - cosmo
+    css: styles/styles.css
+    toc: false
+    page-layout: full
+    include-after-body:
+      - text: |
+          <script>
+          document.addEventListener("DOMContentLoaded", function () {
+            const progToggle = document.getElementById("nav-menu-programs");
+            if (progToggle) {
+              const overviewItem = progToggle.parentElement.querySelector(".dropdown-menu a.dropdown-item");
+              if (overviewItem) {
+                const overviewHref = overviewItem.getAttribute("href");
+                progToggle.setAttribute("href", overviewHref);
+                progToggle.removeAttribute("data-bs-toggle");
+                progToggle.addEventListener("click", function (e) {
+                  window.location.href = overviewHref;
+                });
+              }
+            }
+          });
+          </script>

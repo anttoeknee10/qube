@@ -1,0 +1,108 @@
+---
+title: "QUBE Advisors"
+subtitle: "Expert Advisors, Board Directors, and Graduate Student Advisors"
+---
+
+## QUBE Expert Advisors
+
+::: {.qube-card}
+::: {.profile-row}
+::: {.profile-photo-frame}
+![](../images/feng-zhu.png){.portrait-img alt="Feng Zhu, PhD"}
+:::
+::: {.profile-info}
+### Feng Zhu, PhD
+[QUBE Board Director]{.badge-role} [QUBE Expert Advisor]{.badge-role}
+
+- **Professor**, Harvard University Business School
+:::
+:::
+:::
+
+::: {.qube-card}
+::: {.profile-row}
+::: {.profile-photo-frame}
+![](../images/lu-wang.png){.portrait-img alt="Lu Wang, PhD"}
+:::
+::: {.profile-info}
+### Lu Wang, PhD
+[QUBE Board Director]{.badge-role} [QUBE Expert Advisor]{.badge-role}
+
+- **Professor**, University of Michigan School of Public Health
+:::
+:::
+:::
+
+::: {.qube-card}
+::: {.profile-row}
+::: {.profile-photo-frame}
+![](../images/jianming-xiang.png){.portrait-img alt="Jianming Xiang, MD"}
+:::
+::: {.profile-info}
+### Jianming Xiang, MD
+[QUBE Board Director]{.badge-role} [QUBE Expert Advisor]{.badge-role}
+
+- **Retired Research Scientist**, University of Michigan Medical School
+:::
+:::
+:::
+
+::: {.qube-card}
+::: {.profile-row}
+::: {.profile-photo-frame}
+![](../images/zhongzhe-ouyang.png){.portrait-img alt="Zhongzhe Ouyang, PhD"}
+:::
+::: {.profile-info}
+### Zhongzhe Ouyang, PhD
+[QUBE Expert Advisor]{.badge-role}
+
+- **Assistant Professor & Associate Chair**, Guangzhou University School of Economics and Statistics
+:::
+:::
+:::
+
+---
+
+## QUBE Graduate Student Advisors
+
+::: {.qube-card}
+::: {.profile-row}
+::: {.profile-photo-frame}
+![](../images/tianyi-chu.png){.portrait-img alt="Tianyi Chu"}
+:::
+::: {.profile-info}
+### Tianyi Chu (Yale '24)
+[Graduate Student Advisor]{.badge-role}
+
+- **PhD Student**, MD Anderson Cancer Center
+:::
+:::
+:::
+
+::: {.qube-card}
+::: {.profile-row}
+::: {.profile-photo-frame}
+![](../images/wenchu-pan.png){.portrait-img alt="Wenchu Pan"}
+:::
+::: {.profile-info}
+### Wenchu Pan (PKU '20, U-Mich '23)
+[Graduate Student Advisor]{.badge-role}
+
+- **PhD Student**, University of Michigan
+:::
+:::
+:::
+
+::: {.qube-card}
+::: {.profile-row}
+::: {.profile-photo-frame}
+![](../images/hanyu-li.png){.portrait-img alt="Hanyu Li"}
+:::
+::: {.profile-info}
+### Hanyu Li (Fudan '20, U-Mich '22)
+[Graduate Student Advisor]{.badge-role}
+
+- **PhD Student**, University of Michigan
+:::
+:::
+:::

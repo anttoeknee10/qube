@@ -1,0 +1,97 @@
+---
+title: "QUBE Branch Leadership"
+subtitle: "Youth-Led Chapters Across 3 Countries and 8 U.S. States"
+---
+
+QUBE Initiative is a global youth-led nonprofit spanning **3 countries** (United States, Canada, and China) and **8 states in the USA**. Below are our regional branch leaders:
+
+## United States Branches
+
+:::: {.profile-grid}
+
+::: {.branch-card}
+![](../images/jacob-fu.png){alt="Jacob Fu"}
+
+### Jacob Fu
+[Washington]{.badge-role}
+:::
+
+::: {.branch-card}
+![](../images/balwyn-jing.png){alt="Balwyn Jing"}
+
+### Balwyn Jing
+[Maryland]{.badge-role}
+:::
+
+::: {.branch-card}
+![](../images/maxime-song.png){alt="Maxime Song"}
+
+### Maxime Song
+[Michigan]{.badge-role}
+:::
+
+::: {.branch-card}
+![](../images/albert-li.png){alt="Albert Li"}
+
+### Albert Li
+[Illinois]{.badge-role}
+:::
+
+::: {.branch-card}
+![](../images/katie-yang.png){alt="Katie Yang"}
+
+### Katie Yang
+[New Jersey]{.badge-role}
+:::
+
+::: {.branch-card}
+![](../images/alex-liu.png){alt="Alex Liu"}
+
+### Alex Liu
+[Massachusetts]{.badge-role}
+:::
+
+::: {.branch-card}
+![](../images/lucus-tian.png){alt="Lucus Tian"}
+
+### Lucus Tian
+[Ohio]{.badge-role}
+:::
+
+::: {.branch-card}
+### Kyle Huang
+[Pennsylvania]{.badge-role}
+:::
+
+::::
+
+## International Branches
+
+:::: {.profile-grid}
+
+::: {.branch-card}
+![](../images/alex-zang.png){alt="Alex Zang"}
+
+### Alex Zang
+[Canada]{.badge-role}
+:::
+
+::: {.branch-card}
+![](../images/lianghui-shi.png){alt="Lianghui Shi"}
+
+### Lianghui Shi
+[Hefei, China]{.badge-role}
+:::
+
+::: {.branch-card}
+![](../images/george-lv.png){alt="George Lv"}
+
+### George Lv
+[Nanjing, China]{.badge-role}
+:::
+
+::::
+
+---
+
+Interested in joining or starting a branch? Contact us at [qubeinitiative1@gmail.com](mailto:qubeinitiative1@gmail.com) or explore the [QUBE Youth Scholars Network](../programs/youth-scholars-network.qmd).

@@ -1,0 +1,19 @@
+---
+title: "QUBE Discovery Lab"
+subtitle: "Program 2: Hands-On Quantitative Research in Biology and Health"
+---
+
+::: {.qube-card}
+### Hands-On Learning & Interdisciplinary Collaboration
+The **QUBE Discovery Lab** prepares young people to apply mathematical, computational, and statistical reasoning to real-world biological and health problems.
+:::
+
+## What Participants Do
+
+- **Data-Driven Inquiry:** Explore datasets from life sciences, clinical medicine, environmental health, and public health.
+- **Computational & Statistical Skills:** Build practical experience in data visualization, statistical modeling, and scientific reasoning.
+- **Mentored Research Projects:** Collaborate in teams with guidance from QUBE's [Graduate Student Advisors and Expert Advisors](../leadership/advisors.qmd) to prepare projects for the [QUBE Youth Research Showcase Symposium](research-showcase-symposium.qmd).
+
+---
+
+[← QUBE Youth Scholars Network](youth-scholars-network.qmd) | [Back to All Programs](index.qmd) | [Next: QUBE Science and Leadership Forum →](science-and-leadership-forum.qmd)
